@@ -1,0 +1,5 @@
+1. en tabla 7.9 casos minimos para los estados de servicio son iguales y dan diferente resultado.
+2. en tabla 7.10 el factor en el estado min resistencia debe ser 0, los resultados no coinciden con la suma.
+3. tabla 7.11 facotr ls min resistencia debe ser 0.
+4. tabla 7.13 difieren resultado con el codigo en el caso min
+5. En el diseño de la zarpa trasera de la zapata el esfuerzo ultimo del suelo no corresponde a los valores de la tabla7.15
